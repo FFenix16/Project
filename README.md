@@ -5,7 +5,7 @@ By Faisal Al Shammari 202003334
 The model has been train, valid, and test on a ready made dataset using YOLOV8 CNN model.
 ("\img\Dataset\League Icons.v3i.yolov8")
 
-#the model has been train on a small dataset 531 image and so many classes.
+#the model has been train on a small dataset 531 image and 164 classes, so the predict is accuracy is low. 
 
 Model = LOLAIP2.pt
 

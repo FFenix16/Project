@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>image_21.png</filename>
+	<path>D:\Users\Yoniko\Documents\GitHub\LOL-s-Ai-Project\img\Part2\img\image_21.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thamakench</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>4</ymin>
+			<xmax>115</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

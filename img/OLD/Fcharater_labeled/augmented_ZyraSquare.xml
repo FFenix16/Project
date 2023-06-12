@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final</folder>
+	<filename>augmented_ZyraSquare.png</filename>
+	<path>D:\Users\Yoniko\Documents\GitHub\LOL-s-Ai-Project\img\final\augmented_ZyraSquare.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zyra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>4</ymin>
+			<xmax>111</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

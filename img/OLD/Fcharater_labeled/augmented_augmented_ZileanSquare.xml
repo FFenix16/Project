@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final</folder>
+	<filename>augmented_augmented_ZileanSquare.png</filename>
+	<path>D:\Users\Yoniko\Documents\GitHub\LOL-s-Ai-Project\img\final\augmented_augmented_ZileanSquare.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>147</width>
+		<height>147</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zilean</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>141</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

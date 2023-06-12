@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final</folder>
+	<filename>augmented_ZeriSquare.png</filename>
+	<path>D:\Users\Yoniko\Documents\GitHub\LOL-s-Ai-Project\img\final\augmented_ZeriSquare.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>123</width>
+		<height>123</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>3</ymin>
+			<xmax>122</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

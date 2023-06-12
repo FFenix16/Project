@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final</folder>
+	<filename>augmented_augmented_ZoeSquare.png</filename>
+	<path>D:\Users\Yoniko\Documents\GitHub\LOL-s-Ai-Project\img\final\augmented_augmented_ZoeSquare.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>111</width>
+		<height>111</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>2</ymin>
+			<xmax>110</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

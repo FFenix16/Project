@@ -1,4 +1,18 @@
-# LOL-s-Ai-Project
-LOL’s A.I Project which detects the champion poll and lets you select the best choice for the match up you’ll play in it, also lets you take the best item against the opposite team comp, it only works on normal games.
+A.I Leauge of legends' charaters icon detection 
+By Faisal Al Shammari 202003334
 
-Google docs: https://docs.google.com/document/d/1ZcbkxX4iG0JBCIu61OWk9cVpboXogJdjBlmAGjGqcAU/edit?usp=sharing
+
+The model has been train, valid, and test on a ready made dataset using YOLOV8 CNN model.
+("\img\Dataset\League Icons.v3i.yolov8")
+
+#the model has been train on a small dataset 531 image and so many classes.
+
+Model = LOLAIP2.pt
+
+To test the model USE "TryModule.py" script in "/SRC/TryModule.py"
+
+and you could put the image dir in "imDir" variable and run the code.
+
+There's images in "/img/Testmodule" to test.
+
+after runing the code the result will be save in ("runs\detect\predict")

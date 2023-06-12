@@ -16,3 +16,6 @@ and you could put the image dir in "imDir" variable and run the code.
 There's images in "/img/Testmodule" to test.
 
 after runing the code the result will be save in ("runs\detect\predict")
+
+## Tested Image
+![App Screenshot](https://i.ibb.co/vmbGgWW/1.png)

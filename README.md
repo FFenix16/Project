@@ -1,5 +1,5 @@
 A.I Leauge of legends' charaters icon detection 
-By Faisal Al Shammari 202003334
+By Faisal Al Shammari 
 
 
 The model has been train, valid, and test on a ready made dataset using YOLOV8 CNN model.
